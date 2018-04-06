@@ -1,0 +1,3 @@
+# AdroidApplication
+
+Sample readme text
